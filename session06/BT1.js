@@ -1,0 +1,10 @@
+"use strict";
+let vn = "VN";
+let priceVN = 10000;
+let us = "US";
+let priceUs = 20000;
+let uk = "UK";
+let priceUk = 30000;
+console.log(us, ":", priceVN);
+console.log(us, ":", priceUs);
+console.log(uk, ":", priceUk);
