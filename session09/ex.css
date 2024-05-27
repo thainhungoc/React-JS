@@ -1,0 +1,20 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container > div{
+    width: 50%;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+.form > input{
+flex-grow: 1;
+}
+
+i{
+    
+}
