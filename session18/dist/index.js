@@ -43,9 +43,9 @@ function logger(target) {
     return class extends target {
         constructor(id, name, age, address) {
             super(id, name, age);
-            this.address = "Tín Nghĩa";
+            this.address = "TN";
             this.id = 0;
-            this.name = "Hào";
+            this.name = "N";
             this.age = 19;
         }
         greet() {
