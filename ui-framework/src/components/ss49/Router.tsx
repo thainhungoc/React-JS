@@ -23,6 +23,7 @@ export const Router = () => {
             <Route path='edit' element={<Edit/>}/>
         </Routes>
         <Route path='pproduct-details/:id/' element={<Edit/>}/>
+        {/* 123 */}
 
     </div>
   )
