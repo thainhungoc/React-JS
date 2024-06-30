@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: rgb(59, 59, 160);
+}
+h1 {
+    background-color: rgb(93, 93, 163) !important;
+    color: rgb(231, 175, 175) !important;
+    margin-top: 100px;
+    text-align: center;
+}
+.feedback-form {
+    text-align: center;
+}
+.feedback-input {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 150%;
+    border-radius: 30%;
+}
+.score-selection {
+    font-size: 250%;
+}
+.score-selection i:hover {
+    cursor: pointer;
+    color: rgb(157, 156, 237);
+}
+.buttons {
+    margin-left: 20px;
+    box-sizing: border-box;
+    border-radius: 35px;
+}
+.fbitem{
+    color:rgb(216, 77, 146);
+    display: flex;
+    align-items: center;
+}
+
